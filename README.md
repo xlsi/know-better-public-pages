@@ -8,3 +8,6 @@ Fixed URLs:
 - Support: https://xlsi.github.io/know-better-public-pages/support/
 
 GitHub Pages should serve from `main` and repository root `/`.
+
+Privacy Policy → https://getknowbetter.app/privacy
+Get Help → https://getknowbetter.app/support
